@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uperoumi.github.io/LFn/sitemap_index.txt
+Sitemap: https://uperoumi.github.io/Saq/sitemap_index.txt
+Sitemap: https://uperoumi.github.io/cWR/sitemap_index.txt
+Sitemap: https://uperoumi.github.io/jQp/sitemap_index.txt
